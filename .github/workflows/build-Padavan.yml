@@ -8,8 +8,8 @@ env:
   REPO_URL: https://github.com/MeIsReallyBa/padavan-4.4
   REPO_BRANCH: main
   UPLOAD_RELEASE: true
-  TNAME: RM2100
-  CONFIG_FILE: RM2100.config
+  TNAME: TX1801
+  CONFIG_FILE: TX1801.config
   XRAYCONFIG_FILE: genxrayconfig.lua
   SHADOWSOCKSFILE: Shadowsocks.asp
   XRAY_FILE: xray
